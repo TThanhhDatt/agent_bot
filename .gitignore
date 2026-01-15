@@ -1,0 +1,37 @@
+# Python-specific compiled files and caches
+__pycache__/
+__pycache__
+*.pyc
+**/__pycache__
+**/*.pyc
+*.py[cod]
+database/__pycache__
+
+# IDE and OS specific files
+.vscode
+.DS_Store
+**/.DS_Store
+
+# Environment and configuration files
+.env
+.sellbot
+.sell_bot
+.perfume_bot
+
+# Log files
+app.log
+test.ipynb
+test.py
+test_color.log
+
+# Output files
+output.txt
+output.json
+test.html
+generate_key.py
+
+# Sensitive files (e.g., credentials)
+google_connection/service_account.json
+
+# Jupyter Notebook checkpoints/outputs
+# test.ipynb
